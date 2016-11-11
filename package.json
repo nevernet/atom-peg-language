@@ -1,0 +1,14 @@
+{
+  "name": "language-peg-pegjs",
+  "version": "0.0.1",
+  "description": ".peg, .pegjs file syntax highlighting",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/nevernet/atom-peg-language",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
